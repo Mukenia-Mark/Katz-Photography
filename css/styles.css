@@ -1,0 +1,8 @@
+/* page heading */
+.head {
+  background-image: url(/img/backgrounds/h_img.jpg);
+  text-align: center;
+  color: white;
+
+  background-repeat: no-repeat;
+}
