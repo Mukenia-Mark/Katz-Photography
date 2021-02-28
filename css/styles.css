@@ -32,3 +32,8 @@
 #productmanagement-showing {
   display: none;
 }
+
+/*portfolio section*/
+.portfolio {
+  text-align: center;
+}
