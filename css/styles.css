@@ -37,3 +37,9 @@
 .portfolio {
   text-align: center;
 }
+
+/* contact us section*/
+.contact {
+  text-align: center;
+  background-image: url(/img/backgrounds/c_image.jpg);
+}
