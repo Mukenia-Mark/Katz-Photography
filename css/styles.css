@@ -10,3 +10,9 @@
 .about {
   text-align: center;
 }
+/*services section*/
+.services {
+  text-align: center;
+  background-image: url(/img/backgrounds/s_image.jpg);
+  color: white;
+}
