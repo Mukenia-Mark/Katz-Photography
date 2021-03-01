@@ -51,6 +51,31 @@ body {
   padding-block-start: 20px;
 }
 
+#grey:hover {
+  opacity: 40%;
+}
+#ontario:hover {
+  opacity: 40%;
+}
+#gold:hover {
+  opacity: 40%;
+}
+#brave:hover {
+  opacity: 40%;
+}
+#goodday:hover {
+  opacity: 40%;
+}
+#age:hover {
+  opacity: 40%;
+}
+#burned:hover {
+  opacity: 40%;
+}
+#giraffe:hover {
+  opacity: 40%;
+}
+
 .row2 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -62,13 +87,13 @@ body {
 }
 
 /* contact us section*/
-.contact {
+#blanks {
   text-align: center;
   background-image: url(/img/backgrounds/c_image.jpg);
   color: white;
   background-size: cover;
   padding-block-start: 50px;
-  padding-block-end: 50px;
+  padding-block-end: 75px;
 }
 
 #confirmation {
@@ -79,5 +104,5 @@ body {
 .end {
   text-align: center;
   padding-block-start: 50px;
-  scroll-padding-block-end: 50px;
+  scroll-padding-block-end: 75px;
 }

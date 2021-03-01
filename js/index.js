@@ -22,6 +22,7 @@ $(document).ready(function() {
 
 //portfolio section//
 
+
 // contact us section// 
 $(document).ready(function(){
   $("#blanks form").submit(function(event){
