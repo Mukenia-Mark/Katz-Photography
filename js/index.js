@@ -20,4 +20,12 @@ $(document).ready(function() {
   });
 });
 
-// contact us section//
+//portfolio section//
+
+// contact us section// 
+$(document).ready(function(){
+  $("#blanks form").submit(function(event){
+    $("#confirmation").show();
+    event.preventDefault();
+  });
+});

@@ -71,6 +71,10 @@ body {
   padding-block-end: 50px;
 }
 
+#confirmation {
+  display: none;
+}
+
 /*end section*/
 .end {
   text-align: center;
