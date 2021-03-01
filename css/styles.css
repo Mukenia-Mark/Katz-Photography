@@ -1,14 +1,21 @@
+body {
+}
 /* page heading */
 .top {
   background-image: url(/img/backgrounds/h_img.jpg);
   text-align: center;
   color: white;
   background-repeat: no-repeat;
+  background-size: cover;
+  padding-block-start: 200px;
+  padding-block-end: 200px;
 }
 
 /*About us section*/
 .about {
   text-align: center;
+  padding-block-end: 50px;
+  padding-block-start: 50px;
 }
 
 /*services section*/
@@ -16,11 +23,16 @@
   text-align: center;
   background-image: url(/img/backgrounds/s_image.jpg);
   color: white;
+  background-size: cover;
+  padding-block-start: 95px;
+  padding-block-end: 150px;
 }
 
 /*What we do section*/
 .do {
   text-align: center;
+  padding-block-end: 50px;
+  padding-block-start: 50px;
 }
 #design-showing {
   display: none;
@@ -35,17 +47,18 @@
 /*portfolio section*/
 .portfolio {
   text-align: center;
+  padding-block-end: 20px;
+  padding-block-start: 20px;
 }
 
 .row2 {
-  image-resolution: ;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-column-gap: 10px;
-  column-gap: 10px;
+  grid-column-gap: 5px;
+  column-gap: 5px;
   grid-template-rows: repeat(1, 1fr);
-  grid-row-gap: 10px;
-  row-gap: 10px;
+  grid-row-gap: 15px;
+  row-gap: 15px;
 }
 
 /* contact us section*/
@@ -53,9 +66,14 @@
   text-align: center;
   background-image: url(/img/backgrounds/c_image.jpg);
   color: white;
+  background-size: cover;
+  padding-block-start: 50px;
+  padding-block-end: 50px;
 }
 
 /*end section*/
 .end {
-  color: ;
+  text-align: center;
+  padding-block-start: 50px;
+  scroll-padding-block-end: 50px;
 }
