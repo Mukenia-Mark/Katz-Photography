@@ -1,9 +1,8 @@
 /* page heading */
-.head {
+.top {
   background-image: url(/img/backgrounds/h_img.jpg);
   text-align: center;
   color: white;
-
   background-repeat: no-repeat;
 }
 
@@ -38,8 +37,25 @@
   text-align: center;
 }
 
+.row2 {
+  image-resolution: ;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+  column-gap: 10px;
+  grid-template-rows: repeat(1, 1fr);
+  grid-row-gap: 10px;
+  row-gap: 10px;
+}
+
 /* contact us section*/
 .contact {
   text-align: center;
   background-image: url(/img/backgrounds/c_image.jpg);
+  color: white;
+}
+
+/*end section*/
+.end {
+  color: ;
 }
