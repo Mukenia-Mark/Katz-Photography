@@ -2,7 +2,7 @@ body {
 }
 /* page heading */
 .top {
-  background-image: url(/img/backgrounds/h_img.jpg);
+  background-image: url("/img/backgrounds/h_img.jpg");
   text-align: center;
   color: white;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body {
 /*services section*/
 .services {
   text-align: center;
-  background-image: url(/img/backgrounds/s_image.jpg);
+  background-image: url("/img/backgrounds/s_image.jpg");
   color: white;
   background-size: cover;
   padding-block-start: 95px;
@@ -89,7 +89,7 @@ body {
 /* contact us section*/
 #blanks {
   text-align: center;
-  background-image: url(/img/backgrounds/c_image.jpg);
+  background-image: url("/img/backgrounds/c_image.jpg");
   color: white;
   background-size: cover;
   padding-block-start: 50px;
