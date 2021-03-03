@@ -1,19 +1,25 @@
-**Delani Studio**
+# **Delani Studio**
 
-Author:
+## Author:
+
 Mark Mukenia
 
-Project Description:
+## Project Description:
+
 This is a webpage to show what we as Delani Studio do.
 
-Technologies Used:
+## Technologies Used:
+
 HTML, JavaScript, and CSS
 
-Dependencies:
+## Dependencies:
+
 jQuery
 
-Setup Instructions:
+## Setup Instructions:
+
 no setup instructions
 
-License:
+## License:
+
 Copyright © 2021, Mark Mukenia. Released under the MIT license.
